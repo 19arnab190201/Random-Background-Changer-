@@ -3,4 +3,4 @@
 This project is my first react-native project.
 
 ## Screenshots
-![plot](/screenshots/1.jpg).
+![plot](/screenshots/1.jpg =250x250)
