@@ -3,4 +3,4 @@
 This project is my first react-native project.
 
 ## Screenshots
-![plot](/screenshots/1.jpg =250x250)
+<img src="https://raw.githubusercontent.com/19arnab190201/Random-Background-Changer-/main/screenshots/1.jpg" width=50% height=50%>
